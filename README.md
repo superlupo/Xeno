@@ -20,3 +20,22 @@ urlterm      = URL
 
 Good reference
 https://books.google.ch/books?hl=en&lr=&id=KGIbfiiP1i4C&oi=fnd&pg=PR5&dq=Bird,+S.,+Klein,+E.,+Loper,+E.:+Natural+language+processing+with+Python.+O%E2%80%99Reilly+Media,+Inc.+(2009)&ots=Y3Akx7IGM5&sig=EfUfW5sFIYBoVggfHkwpofWaQFA&redir_esc=y#v=onepage&q&f=false
+
+Split the datasets into training, holdout and validation sets.
+```
+3344  x
+11261 non-x
+
+Splits
+
+2000 = x training 
+800  = x holdout
+544  = x validation
+
+6735 = non-x training
+2694 = non-x holdout
+1832 = non-x validation
+```
+
+
+
