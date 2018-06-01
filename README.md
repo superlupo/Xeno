@@ -40,6 +40,7 @@ Splits
 
 https://github.com/adeshpande3/LSTM-Sentiment-Analysis/blob/master/Oriole%20LSTM.ipynb
 
+http://localhost:8888/notebooks/MachineLearning/LSTM/LSTM-Sentiment-Analysis/XenoLSTM.ipynb
+http://localhost:8888/notebooks/MachineLearning/LSTM/LSTM-Sentiment-Analysis/Oriole%20LSTM.ipynb
 
-
-
+https://github.com/rasbt/python-machine-learning-book/blob/master/code/ch08/ch08.ipynb
